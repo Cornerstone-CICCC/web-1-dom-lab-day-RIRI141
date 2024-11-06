@@ -57,3 +57,21 @@ body {
     }
   }
 }
+
+
+#employees {
+  table {
+    width: 100%;
+    thead {
+      tr th {
+        padding: 0.5rem;
+        background-color: skyblue;
+      }
+    }
+    tr td {
+      padding: 0.5rem;
+      
+    }
+  }
+};
+  

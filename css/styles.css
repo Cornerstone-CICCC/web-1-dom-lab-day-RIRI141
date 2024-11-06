@@ -52,4 +52,13 @@ body {
   padding: 0.25rem;
 }
 
-/*# sourceMappingURL=styles.css.map */
+#employees table {
+  width: 100%;
+}
+#employees table thead tr th {
+  padding: 0.5rem;
+  background-color: skyblue;
+}
+#employees table tr td {
+  padding: 0.5rem;
+}/*# sourceMappingURL=styles.css.map */
